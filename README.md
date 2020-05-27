@@ -28,22 +28,22 @@
 
 ### 業務以外
 
-- メイドカフェ紹介アプリ
+- メイドカフェを探す！ ~ メイドマップ ~
   - [AppStore](https://appsto.re/jp/wMZZib.i)
-- Django 用 APNS のラッパーライブラリ
+- ios-notification
   - [PyPI](https://pypi.org/project/ios-notification/)
   - [Repository](https://github.com/nnsnodnb/django-ios-notifications)
-- Django 用 In-App-Purchase バリデーションライブラリ
+- django-ios-storekit
   - [PyPI](https://pypi.org/project/django-ios-storekit/)
   - [Repository](https://github.com/nnsnodnb/django-ios-storekit)
-- NowPlaying シェアアプリ
+- NowPlaying ~ 起動するだけでツイート ~
   - [AppStore](https://apple.co/2HtzbzC)
   - [Repository](https://github.com/nnsnodnb/nowplaying-ios)
   - [Site](https://nnsnodnb.github.io/nowplaying-ios)
-- テキストが長い場合自動でスクロールさせるライブラリ
+- ScrollFlowLabel
   - [CocoaPods](https://cocoapods.org/pods/ScrollFlowLabel)
   - [Repository](https://github.com/nnsnodnb/ScrollFlowLabel)
-- APNS Provider API ラッパーライブラリ
+- kalyke-apns
   - [PyPI](https://pypi.org/project/kalyke-apns/)
   - [Repository](https://github.com/nnsnodnb/kalyke)
 - PHPカンファレンス スタッフ(諸事情のため当日スタッフとして2016, 2017, 2019年に参加)
