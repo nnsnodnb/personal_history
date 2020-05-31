@@ -240,6 +240,11 @@ iOS 端末で撮影したスクリーンショットをアルバムにして共�
 - インフラについては AWS を使用したが知り合いに紹介してもらった当時大学3年生に CloudFormation を使い実装していただいた。
 - 同年11月にサービスをクローズ
 
+#### 特に頑張ったこと
+
+- 以前に副業で少しだけ Django を扱ったが今回がほぼ初めての実務でのサーバサイド実装だったのである程度の実装は事前知識でどうにかなっていたが、 `Celery` を使った非同期処理や Django ORM における `.select_related` や `.prefetch_related` についてしっかり認識を作り、さらに Django ORM の知識を増やし、よりよい SQL を書くこと
+- コードレビューは今まで大きなものはしたことはなかったが、ここで初めて対応して「どうすれば伝わるか」など言葉の使い方や伝え方、 LGTM の使い方などを改めて学習した。
+
     </details>
 
     <details>
@@ -300,6 +305,12 @@ iOS 端末で撮影したスクリーンショットが既存の SNS のよう�
   - サービスクローズ後にブログ記事を公開
       1. [所属の業務で作ったiOSアプリをサービス終了させたのでアプリのメインロジックの解説を書く](https://nnsnodnb.hatenablog.jp/entry/auto-upload-screenshots-with-shutdown-ios-app)
       2. [アプリへの招待リンクをFirebase Dynamic Linksを使って実装した](https://nnsnodnb.hatenablog.jp/entry/implement-invitation-to-app-with-fdl)
+
+#### 特に頑張ったこと
+
+- `PushKit` というものは小耳にしていたがこれを使ってサービスのメインロジックが提供できることをインターネットの海を1日半彷徨ったり似たような機能を提供しているサービスを自分の端末に入れてオフィスの周辺を歩き回るなどの実装ができるかの調査
+- `PushKit` を使って自動でスクリーンショットをアップロードするという仕組みを実装したが、 Apple のレビューで `PushKit` を使うなら `CallKit` も使わなきゃいけないよという指摘を受け、初めは `Asterisk` を使って SIP サーバを建てて VoIP 電話環境を実装しようとしたがメンテンスのことを考え、 LINE や Skype 等が何を使っているのだろうと考えたら `WebRTC` のことを思い出したので2週間で1対1の電話機能を実装することができた。
+- 実装頑張ったが、今回は外部メンバーが多かったので Slack でコミュニケーションを取ったりできるだけ早く PullRequest をレビューをすることなども頑張った。
 
     </details>
 
@@ -382,6 +393,12 @@ iOS 端末で撮影したスクリーンショットが既存の SNS のよう�
 - iOSDC Japan 2019 にて [uber/ios-snapshot-test-case](https://github.com/uber/ios-snapshot-test-case) という XCTest のフレームワークを知ったので iOS に実装して `iPhoneSE 1st Gen` `iPhone8` `iPhone8 Plus` `iPhone 11` `iPhone 11 Pro` `iPhone 11 Pro Max` のスナップショットテストを全画面と可能な限りの `UITableViewCell` や `UICollectionViewCell` に反映。また API レスポンスのデータを正しく `Decodable` で反映できるかのテストやユーティリティ関数・メソッドについてもできる限りテストコードを作成
 - 今まで `CocoaMVC` で実装をしてきたが `MVVM + Router` のアーキテクチャで実装をしている
 - サーバサイドは `pytest` を使ったテストコードの実装を行い現在600件程度のテストコードが存在
+
+#### 特に頑張ったこと
+
+- 結構長い間ブランク期間があったのでその間に学習した `pytest` や iOS のアーキテクチャについて書きながら更に学習していった。
+- 両社ともに金銭的にちょっとキツイ状態だったので多くの人にお手伝いをしてもらうのは難しく、前回よりもメンバーは少なかったが、スピード感を大切に身体を壊さないように iOS サーバサイド インフラ、自動化システムの構築をした。
+
     </details>
   </div>
 </details>
