@@ -325,7 +325,7 @@ iOS 端末で撮影したスクリーンショットが既存の SNS のよう�
 
 #### アプリについて
 
-<a href="https://apps.apple.com/jp/app/mirare-%E3%83%9F%E3%83%A9%E3%83%BC%E3%83%AC/id1491717209?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/ja-jp/badge-lrg.svg?releaseDate=2020-01-26&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;"></a>
+[![App Store](https://linkmaker.itunes.apple.com/ja-jp/badge-lrg.svg?releaseDate=2020-01-26&kind=iossoftware&bubble=ios_apps)](https://apps.apple.com/jp/app/mirare-%E3%83%9F%E3%83%A9%E3%83%BC%E3%83%AC/id1491717209?mt=8)
 
 所属会社のサービスではないのでリンクだけ失礼させていただきます。
 
