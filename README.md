@@ -104,3 +104,7 @@ etc.
 - CircleCI
 
 etc.
+
+## 謝辞
+
+[bannzai/PersonalHistory](https://github.com/bannzai/PersonalHistory) を参考にさせていただきました。
