@@ -22,9 +22,13 @@
 - 2016年12月 株式会社スマートテック・ベンチャーズを退職
 - 2017年1月 合同会社きぼうソフトに入社
 - 2018年7月 合同会社きぼうソフトを退職
-- 2018年8月 Pearch株式会社に入社
+- 2018年8月 [Pearch株式会社](https://pearch.jp/)に入社
 
 ### 職務経歴
+
+使用言語・技術については私がメインで触ったものについて書いてます。  
+フレームワーク等については詳細書かれていない場合が多々あります。  
+人数については末端エンジニア期間中は把握できてないのであえて書いていません。
 
 <details> 
   <summary>株式会社スマートデバイス・テクノロジー (株式会社スマートテック・ベンチャーズ)</summary>
@@ -36,7 +40,10 @@
 #### 開発について
 
 - 2016年5月〜6月
-- 使用言語・技術: `Xcode` `Objective-C` `CocoaPods`
+- 使用言語・技術
+  - `Xcode`
+  - `Objective-C`
+  - `CocoaPods`
 - エンジニアになって初めての業務経験
 - 0から実装を始めて結合テストを iPhone4S 〜 iPhone6s/Plus までの端末で対応
 
@@ -48,7 +55,11 @@
 #### 開発について
 
 - 2016年7月〜8月中旬
-- 使用言語・技術: `Xcode` `Swift` `CocoaPods` `Realm`
+- 使用言語・技術
+  - `Xcode`
+  - `Swift`
+  - `CocoaPods`
+  - `Realm`
 - 3ヶ月の研修期間終了後にアサインいただいたプロジェクト
 - メインはテスター(自動テストではない)として参加し結合テストの担当をし、必要であれば他のテストメンバーの作業効率化のためにテストデータ作成スクリプトを作成
 - Swift の経験が一切なかったので簡単なバグ修正や機能の実装を担当
@@ -61,7 +72,10 @@
 #### 開発について
 
 - 2016年8月中旬〜2016年9月最終週
-- 使用言語・技術: `Xcode` `Objective-C` `Nifty Cloud Mobile Backend`
+- 使用言語・技術
+  - `Xcode`
+  - `Objective-C`
+  - `Nifty Cloud Mobile Backend`
 - プッシュ通知モバイルバックエンドの切り替えの実装や要望機能の実装
 - 直接、アプリの担当者の方との電話やメールでの連絡を取ったりしました
 
@@ -73,7 +87,12 @@
 #### 開発について
 
 - 2016年9月最終週〜2016年12月
-- 使用言語・技術: `Xcode` `Objective-C` `Swift` `CocoaPods` `Python3`
+- 使用言語・技術
+  - `Xcode`
+  - `Objective-C`
+  - `Swift`
+  - `CocoaPods`
+  - `Python3`
 - SES として初めての常駐業務
 - iOS アプリエンジニアとしての参加でしたが Python でのサーバサイド開発経験が業務経験レベルではないがあったのでモックサーバのアップデート対応などの実装も行いました(たまに許可をもらって Staging サーバに SSH して Perl スクリプトをちょっと書き換えたりとか)
 - レンタル商品の在庫検索機能やクーポンの閲覧・使用機能やお気に入り店舗からのお知らせ閲覧機能の実装やリリース時に発生する複数実機での結合テスト
@@ -92,7 +111,10 @@
 #### 開発について
 
 - 2016年11月〜2017年1月 (11月〜12月は副業として参加)
-- 使用言語・技術: `Xcode` `Swift` `CocoaPods`
+- 使用言語・技術
+  - `Xcode`
+  - `Swift`
+  - `CocoaPods`
 - カメラ撮影機能、撮影した写真へのスタンプやフレームの貼り付け機能、スタンプやフレームの操作による回転や移動機能
 
     </details>
@@ -103,7 +125,11 @@
 #### 開発について
 
 - 2017年2月初旬
-- 使用言語・技術: `Xcode` `Objective-C` `CoreData` `CocoaPods`
+- 使用言語・技術
+  - `Xcode`
+  - `Objective-C`
+  - `CoreData`
+  - `CocoaPods`
 - 新規開発部分に CoreData を用いたオフライン及びオンラインでの情報閲覧機能を追加
 - 新規開発部分の API つなぎ込み
 
@@ -115,7 +141,10 @@
 #### 開発について
 
 - 2017年8月〜9月上旬
-- 使用言語・技術: `Xcode` `Swift` `CocoaPods`
+- 使用言語・技術
+  - `Xcode`
+  - `Swift`
+  - `CocoaPods`
 - セキュリティ要件書の翻訳作業や技術の選定
 
     </details>
@@ -126,7 +155,11 @@
 #### 開発について
 
 - 2017年2月〜2018年5月
-- 使用言語・技術: `Xcode` `Objective-C` `Swift` `Python3`
+- 使用言語・技術
+  - `Xcode`
+  - `Objective-C`
+  - `Swift`
+  - `Python 3`
 - アプリのリニューアルや新機能の実装や担当者の方との連携を担当
 - 参加してすぐに Python で作られたリコメンドエンジンサーバを保守できる人がいなかったので少しだけ改修を担当
 - API 連携が必要なサービスなのでローカルに Ruby on Rails で作られたサーバサイドアプリケーションを立ち上げデバッグ等に使用。( Ruby は全くわかりません)
@@ -140,7 +173,11 @@
 
 - 2018年6月〜7月
   - 確か6月に入って3週連続髪色が毎週変わってた気がするので確か6月スタート7月末終了
-- 使用言語・技術: `Xcode` `Objective-C` `Swift` `CoreData`
+- 使用言語・技術
+  - `Xcode`
+  - `Objective-C`
+  - `Swift`
+  - `CoreData`
 - バグ修正や新規開発部分の実装や結合テストも担当
 
     </details>
@@ -150,6 +187,203 @@
 
 <details>
   <summary>Pearch株式会社</summary>
+
+  <div>
+
+- 設立したてほやほやのスタートアップで頑張ることにしました
+- コーポレートサイトの作成については関与してません
+
+  </div>
+
+  <div>
+    <details>
+      <summary>Pipe - パイプ</summary>
+
+#### アプリ概要
+
+iOS 端末で撮影したスクリーンショットをアルバムにして共有リンクを知っている友達にだけ Web で共有できるサービス
+
+#### 開発について
+
+- 2018月8月〜11月
+- 使用言語・技術
+  - `Xcode`
+  - `Swift`
+  - `Carthage`
+  - `CocoaPods`
+  - `SwiftLint`
+  - `LicensePlist`
+  - `Firebase`
+  - `PyCharm`
+  - `Python 3.7`
+  - `Pipenv`
+  - `Django 2.1`
+  - `djangorestframework`
+  - `Celery`
+  - `Redis 5.0.0`
+  - `MySQL 5.7`
+  - `Apple Push Notification Service`
+  - `Docker`
+  - `Bitrise`
+  - `CircleCI`
+  - `DeployGate`
+- iOS
+  - 2人 (自分を含む)
+- サーバサイド
+  - 1人 (自分)
+- インフラ
+  - 1人
+- Web
+  - 1人
+- iOS アプリ(9割)及びサーバサイド(全部)の実装を担当
+- iOS アプリの自動テストの知見がなかったのであんまり書けなかったがサーバサイドでは200件ほどのテストを書いた
+- インフラについては AWS を使用したが知り合いに紹介してもらった当時大学3年生に CloudFormation を使い実装していただいた。
+- 同年11月にサービスをクローズ
+
+    </details>
+
+    <details>
+      <summary>Pipe(パイプ) - 投稿いらずでつながる </summary>
+
+#### アプリ概要
+
+iOS 端末で撮影したスクリーンショットが既存の SNS のように自らが投稿するのではなくバックグラウンドでアプリが自動的にサーバにアップロードしてアプリ内で友達になっている親友にありのままの自分を表現するサービス
+
+#### 開発について
+
+- 2018年12月〜2019年6月
+- 使用言語・技術
+  - `Xcode`
+  - `Swift`
+  - `Carthage`
+  - `CocoaPods`
+  - `SwiftLint`
+  - `LicensePlist`
+  - `Realm`
+  - `CallKit`
+  - `PushKit`
+  - `WebRTC`
+  - `WebSocket`
+  - `PyCharm`
+  - `Python 3.7`
+  - `Pipenv`
+  - `Django 2.2`
+  - `djangorestframework`
+  - [`channels`](https://github.com/django/channels)
+  - `Celery`
+  - `Celery Beat`
+  - `Flask`
+  - `Apple Push Notification Service`
+     - `APNS Provider API`
+  - `Redis 5.0.0`
+  - `MySQL 5.7`
+  - `Amazon S3`
+  - `Amazon CloudFront`
+  - `Docker`
+  - `Bitrise`
+  - `CircleCI`
+  - `DeployGate`
+- iOS
+  - 3人 (自分を含む)
+- サーバサイド
+  - 1人 (自分)
+- インフラ
+  - 1人
+- Web
+  - 1人
+- iOS アプリ(3割)及びサーバサイド(全部)の実装を担当
+- フリーランスエンジニアの2人にもお手伝いしていただき、ちょっと楽に開発が行えた。またここで両名との連携も綿密にとった。
+- 上の Pipe 同様インフラについては同じ学生の方に卒研が忙しいにも関わらず以前のシステムにちょっと変更を加えたものを図を作ってお願いし実装していただいた。
+- iOS アプリのコードを書いた量は少なかったのですがコードレビューは全部していたので、サーバサイドの不安感を少しでも無くすために350件ほどのテストを書いた
+- 同年8月にサービスをクローズ
+  - 開発自体は6月にストップ→取締役がなにやら話し合っていたので次どうするか決まるまでは何してても言われたので自分のアプリの改修や OSS のメンテナンスや開発、学習や技術書読書に注ぎ込んだり旅行に行ってリフレッシュをした。(給料をもらいながらニートしてた)
+  - サービスクローズ後にブログ記事を公開
+      1. [所属の業務で作ったiOSアプリをサービス終了させたのでアプリのメインロジックの解説を書く](https://nnsnodnb.hatenablog.jp/entry/auto-upload-screenshots-with-shutdown-ios-app)
+      2. [アプリへの招待リンクをFirebase Dynamic Linksを使って実装した](https://nnsnodnb.hatenablog.jp/entry/implement-invitation-to-app-with-fdl)
+
+    </details>
+
+    <details>
+      <summary>Mirare(ミラーレ) - 美容サロンの「リピート率」と「来店頻度」の向上を実現！</summary>
+
+#### 前説
+
+- 受託開発の契約ですが自分が Pipe クローズ時に投稿したブログ記事を読んだ別のスタートアップの代表から Twitter DM をいただいて、所属会社としても次の事業を何にするか考えてる間に受託をやりたいということだったので個人との契約ではなく所属会社との契約として新規開発を請け負いました。 ~~会社メンバーを養うことになりました????~~
+- 請負先の代表から元々私個人にお願いするつもりだったのでサービスの名前などを表記してもいいという許可をいただいているので名前を伏せずに使用させていただいています。
+- 所属会社と受託契約が終了後も副業としてお手伝いさせていただく予定。
+
+#### アプリについて
+
+<a href="https://apps.apple.com/jp/app/mirare-%E3%83%9F%E3%83%A9%E3%83%BC%E3%83%AC/id1491717209?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/ja-jp/badge-lrg.svg?releaseDate=2020-01-26&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;"></a>
+
+所属会社のサービスではないのでリンクだけ失礼させていただきます。
+
+#### 開発について
+
+- 2019月9月最終週〜6月現在
+- 使用言語・技術
+  - `Xcode`
+  - `Swift`
+  - `Carthage`
+  - `RxSwift`
+  - `SwiftLint`
+  - `LicensePlist`
+  - `ios-snapshot-test-case`
+  - `Firebase`
+  - `Mint`
+  - `XcodeGen`
+  - `PyCharm`
+  - `Python 3.8`
+  - `poetry`
+  - `Django 3.0`
+  - `djangorestframework`
+  - `Celery`
+  - `pytest`
+  - `flake`
+  - `Redis 5.0.6`
+  - `PostgreSQL 11.4`
+  - `Docker`
+  - `MinIO`
+  - `local-kms`
+  - `localstack`
+  - `AWS`
+     - `AWS CloudFormation`
+     - `Amazon EC2`
+     - `Amazon RDS`
+     - `Amazon S3`
+     - `Amazon CloudFront`
+     - `Amazon ElastiCache`
+     - `Amazon CloudWatch`
+     - `Amazon ECR`
+     - `Amazon Route53`
+     - `Amazon SES`
+     - `AWS CodePipeline`
+     - `AWS CodeDeploy`
+     - `AWS KMS`
+     - `AWS Lambda`
+     - `AWS IAM`
+     - `AWS Auto Scaling`
+     - `AWS Batch`
+     - `AWS WAF`
+     - `AWS Certificate Manager`
+     - `Elastic Load Balancing`
+  - `Bitrise`
+  - `CircleCI`
+  - `GitHub Actions`
+- iOS
+  - 2人 (自分を含む。現在は自分1人)
+- サーバサイド
+  - 1人 (自分)
+  - v1.0.0 リリース後に大学生がインターンとして参加して2人になったが実務が初めてなので軽い作業だけをしてもらって勉強してもらっている状態。
+- インフラ
+  - 1人 (自分)
+- Web
+  - 1人
+- iOSDC Japan 2019 にて [uber/ios-snapshot-test-case](https://github.com/uber/ios-snapshot-test-case) という XCTest のフレームワークを知ったので iOS に実装して `iPhoneSE 1st Gen` `iPhone8` `iPhone8 Plus` `iPhone 11` `iPhone 11 Pro` `iPhone 11 Pro Max` のスナップショットテストを全画面と可能な限りの `UITableViewCell` や `UICollectionViewCell` に反映。また API レスポンスのデータを正しく `Decodable` で反映できるかのテストやユーティリティ関数・メソッドについてもできる限りテストコードを作成
+- 今まで `CocoaMVC` で実装をしてきたが `MVVM + Router` のアーキテクチャで実装をしている
+- サーバサイドは `pytest` を使ったテストコードの実装を行い現在600件程度のテストコードが存在
+    </details>
+  </div>
 </details>
 
 ### 業務以外
@@ -220,6 +454,7 @@ etc.
 - [XcodeGen](https://github.com/yonaskolb/XcodeGen)
 - Carthage
 - CocoaPods
+- Firebase
 - Celery
 - Redis
 - pytest
