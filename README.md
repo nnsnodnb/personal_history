@@ -6,10 +6,11 @@
 | 生年月 | 1996年3月 |
 | GitHub | [nnsnodnb](https://github.com/nnsnodnb) |
 | SpeakerDeck | [nnsnodnb](https://speakerdeck.com/nnsnodnb) |
-| Twitter | [@nnsnodnb](https://twitter.com/nnsnodnb) or [@FavKisei](https://twitter.com/FavKisei) |
+| Twitter | [@nnsnodnb](https://twitter.com/nnsnodnb) & [@FavKisei](https://twitter.com/FavKisei) |
 | Facebook | [Yuya Oka](https://facebook.com/nnsnodnb) |
 | Blog | [はてなブログ](https://nnsnodnb.hatenablog.jp) |
 | Qiita | [nnsnodnb](https://qiita.com/nnsnodnb) |
+| その他 | [LAPRAS](https://lapras.com/public/YM8RRRI) |
 
 ## 経歴
 
