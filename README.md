@@ -22,7 +22,7 @@
 - 2018年7月 合同会社きぼうソフトを退職
 - 2018年8月 [Pearch株式会社](https://pearch.jp/)に入社
 - 2020年7月 Pearch株式会社を退職
-- ２０２０年9月 [フラー株式会社](https://www.fuller-inc.com)に入社
+- 2020年9月 [フラー株式会社](https://www.fuller-inc.com)に入社
 
 ### 職務経歴
 
